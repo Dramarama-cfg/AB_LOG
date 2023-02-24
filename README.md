@@ -2,7 +2,7 @@
 
 Updates:
 v1.0 - original code.
-v1.1 - updated version. Since PD reversed update, PLEASE USE V1.
+v1.1 - updated version. Since PD reversed update, please download&use V1. (AB_analysislog_v1.0(3cols;old_copy).zip)
 
 
 
